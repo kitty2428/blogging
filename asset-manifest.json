@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/blogging/static/css/main.64235665.css",
+    "main.js": "/blogging/static/js/main.bf9b5606.js",
+    "static/js/787.a361b86b.chunk.js": "/blogging/static/js/787.a361b86b.chunk.js",
+    "static/media/post2.jpg": "/blogging/static/media/post2.76353e21203d8a2f3206.jpg",
+    "static/media/tech.jpg": "/blogging/static/media/tech.47e3460ffb389ed361d9.jpg",
+    "static/media/write.jpg": "/blogging/static/media/write.0068a2295341926e17eb.jpg",
+    "static/media/contact.jpg": "/blogging/static/media/contact.b3580cd394b68f52d9b8.jpg",
+    "static/media/community.jpg": "/blogging/static/media/community.ae7f93b983d82626e1dc.jpg",
+    "static/media/create.jpg": "/blogging/static/media/create.90cdb09c233af767ecd7.jpg",
+    "static/media/about.jpg": "/blogging/static/media/about.11184cc04e633c8982d0.jpg",
+    "static/media/thanks.jpg": "/blogging/static/media/thanks.8f98a84a7cffd669ef43.jpg",
+    "static/media/music.jpg": "/blogging/static/media/music.1fde45a754e98b8e9923.jpg",
+    "static/media/wp2.jpg": "/blogging/static/media/wp2.af094d4461db2f0078c2.jpg",
+    "static/media/dance.jpg": "/blogging/static/media/dance.6f19958baa881aabd92b.jpg",
+    "static/media/b1.jpg": "/blogging/static/media/b1.8678acada61e4b5abcf3.jpg",
+    "static/media/mangr.jpg": "/blogging/static/media/mangr.20799d4fedee01de7a76.jpg",
+    "static/media/c1.png": "/blogging/static/media/c1.2a17834b9e5ed3fae85f.png",
+    "index.html": "/blogging/index.html",
+    "main.64235665.css.map": "/blogging/static/css/main.64235665.css.map",
+    "main.bf9b5606.js.map": "/blogging/static/js/main.bf9b5606.js.map",
+    "787.a361b86b.chunk.js.map": "/blogging/static/js/787.a361b86b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64235665.css",
+    "static/js/main.bf9b5606.js"
+  ]
+}
