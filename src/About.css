@@ -1,0 +1,50 @@
+.wholeabout{
+    background-color: darkgrey;
+}
+.about {
+  background-color: rgb(198, 229, 113);
+  width: 100%;
+  height: 40vh;
+}
+.abouttitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.abouttitlelg {
+  position: absolute;
+  top: 20%;
+  font-size: 60px;
+  font-family: cursive;
+}
+.aboutbgimg {
+  margin-left: 30%;
+  margin-top: -6%;
+  width: 500px;
+  height: 900px;
+  background-color: burlywood;
+}
+.aboutimg {
+  object-fit: cover;
+  width: 500px;
+  height: 600px;
+}
+.abouttitlesm {
+  position: absolute;
+  margin-left: 6%;
+  font-size: 30px;
+  font-family: fantasy;
+  color: white;
+}
+.aboutdescrip{
+    margin: 9%;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.aboutdescrip::first-letter{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}

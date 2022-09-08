@@ -1,0 +1,29 @@
+.header{
+    margin-top: 40px;
+}
+.headertitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titlesm{
+    position:absolute;
+    top:18%;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+}
+.titlelg{
+    position:absolute;
+    top:20%;
+    font-size: 100px;
+    font-family: cursive;
+    letter-spacing: 3px;
+}
+.headerimg{
+    width: 100%;
+    height: 440px;
+    margin-top:50px ;
+    object-fit: cover;
+    overflow: hidden;
+}

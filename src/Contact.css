@@ -1,0 +1,57 @@
+.contact{
+    display: flex;
+}
+.contactelemnt{
+    flex: 9;
+height: 100vh;
+background-image: url("contact.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.contform{
+    margin-top: 17%;
+margin-left: 20%;
+margin-right: 15%;
+/* background-color: black;
+opacity: .7; */
+}
+label{
+    margin-left: 16%;
+    font-size: 18px;
+    color: white;
+}
+.contactinput,.contactmsg{
+    margin-left: 16%;
+    margin-bottom: 4%;
+    width: 60%;
+    height: 30px;
+    border:none;
+    background-color: none;
+    opacity: .7;
+    border-bottom: 1px solid grey;
+}
+.contactmsg{
+    height:50px ;
+}
+.contactsubmit{
+    position: absolute;
+    top: 75%;
+    right:58%;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+    letter-spacing: 2px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 500;
+    width: 130px;
+    height:45px;
+}
+.contactsubmit:hover{
+    background-color: white;
+    color: teal;
+    cursor: pointer;
+}
